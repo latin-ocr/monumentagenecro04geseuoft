@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentagenecro04geseuoft_0016.png"; bbox 0 0 2054 2948; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 167 78 1277 114">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 167 78 1277 114">
+     <span class='ocr_line' id='line_1_1' title="bbox 167 78 1277 114; baseline -0.01 0"><span class='ocrx_word' id='word_1_1' title='bbox 167 88 191 114; x_wconf 85' lang='lat' dir='ltr'>X</span> <span class='ocrx_word' id='word_1_2' title='bbox 701 83 772 109; x_wconf 87' lang='lat' dir='ltr'><em>HOC</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 792 80 983 109; x_wconf 79' lang='lat' dir='ltr'>VOLUMINE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1002 78 1277 108; x_wconf 80' lang='lat' dir='ltr'>CONTINENTUR.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 163 278 1812 999">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 811 278 1158 312">
+     <span class='ocr_line' id='line_1_2' title="bbox 811 278 1158 312; baseline -0.006 -2"><span class='ocrx_word' id='word_1_5' title='bbox 811 289 956 312; x_wconf 57' lang='lat' dir='ltr'><em>commum*</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 980 280 999 309; x_wconf 91' lang='grc'><em>1.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1018 278 1158 309; x_wconf 85' lang='lat' dir='ltr'>STURM.</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 165 371 1811 483">
+     <span class='ocr_line' id='line_1_3' title="bbox 897 371 1809 398; baseline -0.004 0"><span class='ocrx_word' id='word_1_8' title='bbox 897 375 958 398; x_wconf 68' lang='lat' dir='ltr'><em>paq.</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1747 371 1809 394; x_wconf 70' lang='lat' dir='ltr'><strong><em>pay-</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 165 403 1811 442; baseline -0.005 -5"><span class='ocrx_word' id='word_1_10' title='bbox 165 411 251 437; x_wconf 72' lang='lat' dir='ltr'><em>Indeae</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 269 411 382 437; x_wconf 75' lang='lat' dir='ltr'><em>locorum</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 401 413 425 436; x_wconf 79' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 438 417 612 442; x_wconf 59' lang='lat' dir='ltr'><em>personarum]</em></span> <span class='ocrx_word' id='word_1_14' title='bbox 644 427 872 435; x_wconf 88' lang='grc'><strong>......</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 908 407 958 433; x_wconf 84' lang='grc'><em>533</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 1012 406 1096 432; x_wconf 68' lang='lat' dir='ltr'><em>Index</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 1113 413 1202 432; x_wconf 65' lang='lat' dir='ltr'><strong><em>reram</em></strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1219 408 1243 431; x_wconf 69' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_19' title='bbox 1260 405 1395 431; x_wconf 76' lang='lat' dir='ltr'><em>verborum</em></span> <span class='ocrx_word' id='word_1_20' title='bbox 1448 423 1723 430; x_wconf 77' lang='lat'>.......</span> <span class='ocrx_word' id='word_1_21' title='bbox 1760 403 1811 429; x_wconf 82' lang='grc'><em>774</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 166 451 872 483; baseline -0.007 -3"><span class='ocrx_word' id='word_1_22' title='bbox 166 454 348 480; x_wconf 74' lang='lat' dir='ltr'><em>Personarum</em></span> <span class='ocrx_word' id='word_1_23' title='bbox 365 452 475 478; x_wconf 82' lang='lat' dir='ltr'><em>nomina</em></span> <span class='ocrx_word' id='word_1_24' title='bbox 492 451 601 478; x_wconf 82' lang='lat' dir='ltr'><em>rariora</em></span> <span class='ocrx_word' id='word_1_25' title='bbox 618 454 641 477; x_wconf 78' lang='lat' dir='ltr'><em>et</em></span> <span class='ocrx_word' id='word_1_26' title='bbox 660 451 798 476; x_wconf 78' lang='lat' dir='ltr'><em>nominum</em></span> <span class='ocrx_word' id='word_1_27' title='bbox 815 451 872 483; x_wconf 78' lang='lat' dir='ltr'><em>for-</em></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 198 492 1134 789">
+     <span class='ocr_line' id='line_1_6' title="bbox 198 492 957 522; baseline -0.007 0"><span class='ocrx_word' id='word_1_28' title='bbox 198 503 254 522; x_wconf 80' lang='lat' dir='ltr'><em>mae</em></span> <span class='ocrx_word' id='word_1_29' title='bbox 271 496 386 521; x_wconf 79' lang='lat' dir='ltr'><em>rariores</em></span> <span class='ocrx_word' id='word_1_30' title='bbox 418 512 871 521; x_wconf 86' lang='grc'><strong>...........</strong></span> <span class='ocrx_word' id='word_1_31' title='bbox 909 492 957 517; x_wconf 82' lang='grc'><em>757</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 832 758 1134 789; baseline -0.01 0"><span class='ocrx_word' id='word_1_32' title='bbox 832 768 933 789; x_wconf 75' lang='grc' dir='ltr'>Εῡιοιτ</span> <span class='ocrx_word' id='word_1_33' title='bbox 955 759 976 788; x_wconf 92' lang='lat'><em>1.</em></span> <span class='ocrx_word' id='word_1_34' title='bbox 995 758 1134 787; x_wconf 83' lang='lat' dir='ltr'><strong>STVRM.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 163 850 1812 999">
+     <span class='ocr_line' id='line_1_8' title="bbox 897 850 1810 875; baseline -0.01 7"><span class='ocrx_word' id='word_1_35' title='bbox 897 852 958 875; x_wconf 66' lang='lat'><em>1³⁰9·</em></span> <span class='ocrx_word' id='word_1_36' title='bbox 1751 850 1810 874; x_wconf 66' lang='lat' dir='ltr'><strong><em>pay·</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 163 883 1811 922; baseline -0.003 -8"><span class='ocrx_word' id='word_1_37' title='bbox 163 888 352 922; x_wconf 62' lang='lat' dir='ltr'><em>Fragmentum</em></span> <span class='ocrx_word' id='word_1_38' title='bbox 360 887 552 920; x_wconf 73' lang='lat' dir='ltr'><em>necroloffl&#39;eum</em></span> <span class='ocrx_word' id='word_1_39' title='bbox 559 887 712 913; x_wconf 74' lang='lat' dir='ltr'><em>monasterii</em></span> <span class='ocrx_word' id='word_1_40' title='bbox 720 885 874 913; x_wconf 53' lang='lat' dir='ltr'><em>&amp;Floriani</em></span> <span class='ocrx_word' id='word_1_41' title='bbox 909 885 958 911; x_wconf 88' lang='grc'><em>787</em></span> <span class='ocrx_word' id='word_1_42' title='bbox 1012 885 1196 918; x_wconf 70' lang='lat' dir='ltr'><em>Necroloqizmz</em></span> <span class='ocrx_word' id='word_1_43' title='bbox 1214 885 1343 911; x_wconf 75' lang='lat' dir='ltr'><em>incertum</em></span> <span class='ocrx_word' id='word_1_44' title='bbox 1362 903 1722 912; x_wconf 87' lang='lat'>.........</span> <span class='ocrx_word' id='word_1_45' title='bbox 1760 883 1811 909; x_wconf 89' lang='grc'><em>789</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_10' title="bbox 164 961 1812 999; baseline -0.003 -8"><span class='ocrx_word' id='word_1_46' title='bbox 164 964 327 999; x_wconf 51' lang='lat' dir='ltr'><em>Commendat</em></span> <span class='ocrx_word' id='word_1_47' title='bbox 363 980 1723 992; x_wconf 75' lang='grc'><em>...............................</em></span> <span class='ocrx_word' id='word_1_48' title='bbox 1762 961 1812 987; x_wconf 83' lang='grc'><em>792</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
